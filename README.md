@@ -1,3 +1,24 @@
+React Weather-App
+This is a simple Weather-App made with React Js. User can search the weather of any city in the search bar and the page will diplay the name of the city, country, current temperature, humidity, wind speed etc. The webpage also changes it background acording to the weather information.  
+
+![image](https://user-images.githubusercontent.com/53492889/160194681-0a8d85b0-e198-41b4-9553-94003d8981d0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
