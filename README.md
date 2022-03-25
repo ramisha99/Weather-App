@@ -5,6 +5,9 @@ This is a simple Weather-App made with React Js. User can search the weather of 
 ![image](https://user-images.githubusercontent.com/53492889/160194681-0a8d85b0-e198-41b4-9553-94003d8981d0.png) ![image](https://user-images.githubusercontent.com/53492889/160195138-f31e2d72-82ca-46e2-a946-1aa2f2e8af5a.png)
 
 
+**APIs Used**
+
+Open Weather APIs
 
 
 
